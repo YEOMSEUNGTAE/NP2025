@@ -1,0 +1,4 @@
+build/
+out/
+src/ch02_pit_01/**/*.class
+
